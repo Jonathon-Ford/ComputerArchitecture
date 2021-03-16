@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Irvine x86 Environment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Assembling Project0.asm...
+C:\Users\Jt4d\OneDrive\Documents\Visual Studio 2019\irvine\SmallWin.inc(11): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Irvine x86 Environment.vcxproj -> C:\Users\Jt4d\source\repos\Irvine x86 Environment\Debug\Project 0.exe
